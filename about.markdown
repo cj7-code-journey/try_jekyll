@@ -25,7 +25,7 @@ Instead of being a personal portfolio, this website is fully dedicated to the op
 
 ---
 
-## 🙌 Special Thanks & Credits
+### 🙌 Special Thanks & Credits
 
 Building this free guide was made possible by the amazing open-source community and incredible educators. I want to extend my deep gratitude to:
 
