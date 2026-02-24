@@ -17,4 +17,6 @@ Welcome! If you want your own corner on the internet without the headache of com
 
 🛠️ **How to do it:** Just follow the 5 simple phases below. Start from Phase 1, and your site will be live in less than 15 minutes!
 
+
 ---
+
