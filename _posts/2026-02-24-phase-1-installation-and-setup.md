@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: "Phase 1: The Setup (Tools & Prerequisites for Your Blog)"
 date: 2026-02-24
 ---

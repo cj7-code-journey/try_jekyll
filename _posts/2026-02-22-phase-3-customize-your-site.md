@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: "Phase 3: Personalization (Make Your Blog Yours)"
 date: 2026-02-22
 ---

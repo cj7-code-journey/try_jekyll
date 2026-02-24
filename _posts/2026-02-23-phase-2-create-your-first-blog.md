@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: "Phase 2: First Look (Create & View Your Blog)"
 date: 2026-02-23
 ---

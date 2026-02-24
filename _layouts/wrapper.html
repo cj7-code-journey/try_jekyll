@@ -1,0 +1,21 @@
+---
+layout: post
+---
+{{ content }}
+
+<hr style="margin-top: 40px; border: 0; border-top: 1px solid #eaecef;">
+<div style="display: flex; justify-content: space-between; margin-top: 20px; font-weight: bold;">
+  
+  <div>
+    {% if page.next %}
+      <a href="{{ page.next.url | relative_url }}" style="text-decoration: none;">&larr; Previous Part</a>
+    {% endif %}
+  </div>
+
+  <div>
+    {% if page.previous %}
+      <a href="{{ page.previous.url | relative_url }}" style="text-decoration: none;">Next Part &rarr;</a>
+    {% endif %}
+  </div>
+
+</div>

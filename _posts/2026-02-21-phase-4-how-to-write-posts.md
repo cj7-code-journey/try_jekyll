@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: "Phase 4: Content Management (Start Writing)"
 date: 2026-02-21
 ---

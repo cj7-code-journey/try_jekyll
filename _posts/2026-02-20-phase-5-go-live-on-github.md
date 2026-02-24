@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wrapper
 title: "Phase 5: Deployment (Go Live on GitHub Pages)"
 date: 2026-02-20
 ---
