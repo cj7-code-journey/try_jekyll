@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Start Your Free Developer Blog Today 🚀
+<h1>Start Your Free Developer Blog Today 🚀</h1>
 
 Welcome! If you want your own corner on the internet without the headache of complex web development, you are in the right place.
 
