@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phase 4: Content Management (Start Writing)"
-date: 2026-02-23
+date: 2026-02-21
 ---
 
 The setup is completely finished! From this day forward, you will spend 99% of your time in this phase. You never have to touch configuration files again. 

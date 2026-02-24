@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phase 2: First Look (Create & View Your Blog)"
-date: 2026-02-21
+date: 2026-02-23
 ---
 
 Now that your workspace is ready, the fun part begins! In this phase, we are going to generate your entire blog using a single command. 

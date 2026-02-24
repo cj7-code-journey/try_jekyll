@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phase 5: Deployment (Go Live on GitHub Pages)"
-date: 2026-02-24
+date: 2026-02-20
 ---
 
 You made it to the final phase! Your blog looks great on your computer, but now it is time to share it with the world. 
