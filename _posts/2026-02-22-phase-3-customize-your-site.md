@@ -2,6 +2,7 @@
 layout: wrapper
 title: "Phase 3: Personalization (Make Your Blog Yours)"
 date: 2026-02-22
+author: Ashok
 ---
 
 Right now, your blog has default placeholder text like "Your awesome title". Let's change that and make this website truly yours!

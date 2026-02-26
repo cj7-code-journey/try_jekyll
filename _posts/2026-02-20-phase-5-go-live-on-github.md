@@ -2,6 +2,7 @@
 layout: wrapper
 title: "Phase 5: Deployment (Go Live on GitHub Pages)"
 date: 2026-02-20
+author: Ashok
 ---
 
 You made it to the final phase! Your blog looks great on your computer, but now it is time to share it with the world. 

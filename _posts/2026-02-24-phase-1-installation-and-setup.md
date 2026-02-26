@@ -2,6 +2,7 @@
 layout: wrapper
 title: "Phase 1: The Setup (Tools & Prerequisites for Your Blog)"
 date: 2026-02-24
+author: Ashok
 ---
 
 Welcome to the Master Guide for building a free, fast, and beautiful developer blog! 🚀 In this series, we will take you from absolute zero to a live website. 
